@@ -48,11 +48,13 @@ function WhitePaper(props) {
         </div>
         <div className="overlap-group2-1">
           <div className="overlap-group-2">
-            <p className="project-outline-abst valign-text-middle"></p>
+            <p className="project-outline-abst valign-text-middle">
               <br />
               <br />
               <h3 className="heading">Project Outline/Abstract</h3>
               <br />
+              <br />
+            
               <p>NFT Social Clubs are a significant marketing in the existing cryptocurrency/NFT space. To join an NFT
               Social Club, consumers purchase and hold an NFT created by the club’s sponsor. As long as the user owns
               one of the company’s NFTs, they are typically promised access to a number of benefits, meetups, and
@@ -88,9 +90,14 @@ function WhitePaper(props) {
               opportunities, as well as several chances for users to socialize face-to-face with industry leaders and
               pioneers within the cryptocurrency/NFT space, will be a hallmark of the project. <br />
               Over time, the dedicated planning and utility attributable to Golden Key’s project will allow it to
-              compete in the explosively popular NFT Social Club industry. </p><br />
+              compete in the explosively popular NFT Social Club industry. </p>
               <br />
-              <h3 className="heading">Solution</h3> <br />
+              <br />
+              <br />
+              <h3 className="heading">Solution</h3>
+               <br />
+               <br />
+               
               <p>As noted above, success in the growing industry of NFT Social Clubs requires that new projects demonstrate
               both novelty and successful planning. Golden Key NFTs will attain both of these goals by introducing four
               distinct phases of member benefits. This structured release of important member tools will help consumers
@@ -100,9 +107,12 @@ function WhitePaper(props) {
               project develops, integrated technologies like Web3 seminars and networking events will be introduced in
               order to provide further innovation to the existing process. <br />
               The following sections of the whitepaper will explain the specific elements introduced in each phase of
-              the Golden Key NFT development process.</p> <br />
+              the Golden Key NFT development process.</p>
+               <br />
               <br />
-              Mindset
+              <br />
+             <h3 className= "heading">Mindset</h3>
+              <br />
               <br />
               The first quarter of Golden Key’s investor opportunities is called “Mindset.” Throughout this phase,
               Golden Key NFT holders will be shown regular presentations and Q&amp;A sessions with mindset coaches.
@@ -112,9 +122,12 @@ function WhitePaper(props) {
               information relevant to the speakers and their thoughts. <br />
               Because of the limited number of Golden Key NFTs that will be initially available to early adopters, it is
               likely that Golden Key holders will be given unparalleled access to personalized instruction from speakers
-              and mindset advocates during this phase. <br />
+              and mindset advocates during this phase. 
               <br />
-              Real Estate
+              <br />
+              <br />
+               <h3 className= "heading">Real Estate</h3>
+               <br />
               <br />
               Real estate is a growing national and global market. Cryptocurrency investors are particularly common
               actors in the real estate investment market. Because of the volatile nature of cryptocurrency/NFT
@@ -130,8 +143,13 @@ function WhitePaper(props) {
               NFT/cryptocurrency space, this does not mean that these investors are unable to diversify their
               investments. As part of Golden Key’s commitment to providing comprehensive educational support to its
               early adopters and key-holding members, the project will allow members to access resources, keynote
-              speakers, and real estate invest experts throughout the second phase of its development. <br />
-              Business
+              speakers, and real estate invest experts throughout the second phase of its development. 
+              <br />
+              <br />
+              <br />
+
+              <h3 Business= "heading"></h3>
+              <br />
               <br />
               As investors grow their wealth, it becomes necessary to start and maintain business ventures. A
               foundational philosophy of Golden Key’s investor education program is that financial growth requires equal
@@ -141,7 +159,7 @@ function WhitePaper(props) {
               For Golden Key investors who want to quickly establish good practices for wealth management, the myriad
               tools available to new business owners during this phase of the project will be an indispensable asset and
               add further inherent utility to the Golden Key NFT. <br />
-              Money Management <br />
+              <h3 className= "heading">Money Management</h3> <br />
               After key-holders develop an improved mindset, take advantage of real estate investment, and cultivate a
               deeper understanding of how to start and maintain paradigm-shifting businesses, they will begin to learn
               more about successful money and investment management strategies. As part of a comprehensive
@@ -152,17 +170,24 @@ function WhitePaper(props) {
               <br />
               How to begin investing. <br />
               How to develop an effective investment strategy. <br />
-              How to manage wealth/investments in a variety of portfolio sizes. <br />
+              How to manage wealth/investments in a variety of portfolio sizes. 
               <br />
-              Unique Events
+              <br />
+              <br />
+              <h3 className= "heading">Unique Events</h3>
+              <br />
               <br />
               Unique events are a foundational element of most NFT Social Clubs. Because users are paying a premium in
               order to obtain membership, successful clubs providing solid return on investment (RoI) will provide
               consistent events at which users can meet other investors and mingle with industry leaders. <br />
               As a competitive new NFT Social Club, Golden Key will attempt to provide a number of events throughout the
-              year. Two of the event categories are described in the sections below. <br />
+              year. Two of the event categories are described in the sections below. 
               <br />
-              Networking <br />
+              <br />
+              <br />
+              <h3 className= "heading">Networking</h3> 
+              <br />
+              <br />
               Golden Key’s networking events will be a revolutionary addition to the project’s catalogue of
               opportunities for investors and key-holders. Twice per year, the project’s team will organize and execute
               significant networking events. One event will be held within the United States, while the other will be
@@ -184,9 +209,12 @@ function WhitePaper(props) {
               Golden Key will consider the vetted investment database to be a complementary asset to the regular keynote
               speakers and educational opportunities outlined earlier in this whitepaper. Key-holders will be able to
               cultivate their knowledge through professional guidance while executing their newfound knowledge using
-              curated and safe investment options. <br />
+              curated and safe investment options. 
               <br />
-              NFT Social Club Use-Cases
+              <br />
+              <br />
+              <h3 className= "heading">NFT Social Club Use-Cases</h3>
+              <br />
               <br />
               NFT Social Clubs are quickly becoming a dominant force within the larger NFT space. As covered in the
               “Abstract” portion of this whitepaper, an NFT Social Club is an organization that provides NFT-holding
@@ -210,10 +238,10 @@ function WhitePaper(props) {
               The following section will analyze three exemplar competitors operating within the space as of 2022.{" "}
               <br />
               <br />
-              Key Competitors
+              <h3 className= "heading">Key Competitors</h3>
               <br />
               <br />
-              Friends with Benefits
+              <h4 className= "sub-heading">Friends with Benefits</h4>
               <br />
               Friends with Benefits is one of the oldest massive social clubs in the NFT space. The New York Times
               creatively headlines that the club “runs on crypto tokens and vibes.” The organization bills itself as a
@@ -224,7 +252,8 @@ function WhitePaper(props) {
               than $100 million, and it is estimated that members of Friends with Benefits own “billions of dollars” of
               various cryptocurrency assets.
               <br />
-              Fly Fish Club
+              <br />
+              <h4 className= "sub-heading">Fly Fish Club</h4>
               <br />
               Fly Fish Club is a relative newcomer to the NFT Social Club scene, but their work demonstrates the need
               for niche projects and specific member benefits. By owning one of the now sold-out NFTs created by the
@@ -232,13 +261,13 @@ function WhitePaper(props) {
               other cooks. <br />
               By creating scarcity and demonstrating utility/rarity, Fly Fish Club’s NFTs have skyrocketed in value.{" "}
               <br />
-              Bored Ape Yacht Club
-              <br />
+              <h4 className= "sub-heading">Bored Ape Yacht Club
+              </h4><br />
               Perhaps the most famous example of this business model is the Bored Ape Yacht Club. The club is known for
               its extremely valuable NFTs, which have become status symbols among powerful actors in the crypto space.
               However, Bored Ape Yacht Club has also offered several traditional member benefits to owners of their
               namesake NFTs. The organization has also organized meetups in both California and New York, including a
-              yacht party, a concert featuring popular artists like Chris rock, and more.
+              yacht party, a concert featuring popular artists like Chris rock, and more. </p>
             
             <img className="line-8-2" src={line8} />
             <Frame5 className={frame5Props.className} />
