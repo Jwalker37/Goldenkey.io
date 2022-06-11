@@ -117,13 +117,13 @@
 .project-outline-abst {
   color: var(--white);
   font-family: var(--font-family-montserrat);
-  font-size: var(--font-size-m);
+  font-size: 14px;
   font-weight: 500;
-  height: 3061px;
+  height: px;
   left: 189px;
-  letter-spacing: 0;
+  letter-spacing: 1;
   position: absolute;
-  top: 0;
+  top: 200;
   width: 1347px;
 }
 
@@ -183,6 +183,12 @@
 }
 
 .heading{
-  font-size: 30px;
+  font-size: var(--font-size-xl);
   font-weight: 700;
+  font-family: var(--font-family-montserrat)
+}
+.sub-heading {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: var(--font-family-montserrat);
 }
