@@ -261,6 +261,7 @@ function WhitePaper(props) {
               other cooks. <br />
               By creating scarcity and demonstrating utility/rarity, Fly Fish Club’s NFTs have skyrocketed in value.{" "}
               <br />
+               <br /> 
               <h4 className= "sub-heading">Bored Ape Yacht Club
               </h4><br />
               Perhaps the most famous example of this business model is the Bored Ape Yacht Club. The club is known for
