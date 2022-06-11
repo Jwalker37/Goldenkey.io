@@ -1,0 +1,185 @@
+.landing-page {
+  align-items: flex-end;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  min-height: 1400px;
+  overflow-x: hidden;
+  padding: 27px 0;
+  width: 1728px;
+}
+
+.overlap-group1-1 {
+  height: 1094px;
+  margin-right: -35px;
+  position: relative;
+  width: 1753px;
+}
+
+.overlap-group-1 {
+  height: 1094px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1753px;
+}
+
+.original-1 {
+  height: 885px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 85px;
+  width: 1627px;
+}
+
+.frame-3 {
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 283px;
+  left: 948px;
+  position: absolute;
+  top: 810px;
+  width: 770px;
+}
+
+.welcome-to-the-golden-key-society-1 {
+  align-self: flex-end;
+  height: 120px;
+  letter-spacing: 0;
+  margin-right: 41px;
+  margin-top: 23px;
+  text-align: right;
+  width: 580px;
+}
+
+.lowering-the-barrier {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  height: 105px;
+  letter-spacing: 0;
+  margin-left: 41px;
+  margin-top: 14px;
+  text-align: right;
+  width: 679px;
+}
+
+.frame-1 {
+  background-color: var(--old-gold);
+  border: 3px solid var(--black);
+  border-radius: 20px;
+  cursor: pointer;
+  display: flex;
+  height: 77px;
+  left: 122px;
+  position: absolute;
+  top: 835px;
+  width: 317px;
+}
+
+.place {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  height: 39px;
+  letter-spacing: 0;
+  margin-left: 102px;
+  margin-top: 19px;
+  text-align: center;
+  width: 113px;
+}
+
+.frame-1-1 {
+  display: flex;
+  height: 227px;
+  justify-content: center;
+  left: 741px;
+  position: absolute;
+  top: 0;
+  width: 226px;
+}
+
+.gk-white-transparent-1 {
+  height: 207px;
+  margin-top: 10px;
+  object-fit: cover;
+  width: 206px;
+}
+
+.line-8-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1092px;
+  width: 1753px;
+}
+
+.social-2 {
+  display: flex;
+  height: 22px;
+  left: 1537px;
+  position: absolute;
+  top: 53px;
+  width: 130px;
+}
+
+.icon-instagram-2 {
+  cursor: pointer;
+  height: 21.99px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.discord-logo-white-1-2 {
+  cursor: pointer;
+  height: 22px;
+  margin-left: 31px;
+  object-fit: cover;
+  width: 24px;
+}
+
+.icon-twitter-2 {
+  cursor: pointer;
+  height: 18.11px;
+  margin-left: 31px;
+  margin-top: 1.5px;
+  width: 22px;
+}
+
+.flex-row-7 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-right: 21.0px;
+  margin-top: 40px;
+  min-width: 1607px;
+}
+
+.discord-logo-wordmark-white-1-1 {
+  align-self: center;
+  cursor: pointer;
+  height: 55px;
+  margin-top: 0.59px;
+  object-fit: cover;
+  width: 200px;
+}
+
+.gk-golden-transparent-1 {
+  height: 200px;
+  margin-left: 514px;
+  object-fit: cover;
+  width: 200px;
+}
+
+.social-3 {
+  display: flex;
+  margin-left: 563px;
+  margin-top: 28px;
+  width: 130px;
+}
+

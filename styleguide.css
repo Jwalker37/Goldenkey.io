@@ -1,0 +1,70 @@
+:root { 
+  --black: #000000;
+  --old-gold: #d4af37;
+  --white: #ffffff;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 12px;
+  --font-size-xl: 30px;
+  --font-size-xxl: 32px;
+  --font-size-xxxl: 36px;
+  --font-size-xxxxl: 48px;
+  --font-size-xxxxxl: 55px;
+ 
+  --font-family-montserrat: "Montserrat", Helvetica;
+}
+.montserrat-extra-bold-white-48px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.montserrat-medium-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.montserrat-normal-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-bold-old-gold-36px {
+  color: var(--old-gold);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.montserrat-medium-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.montserrat-extra-bold-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.montserrat-semi-bold-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+}

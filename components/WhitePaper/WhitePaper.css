@@ -1,0 +1,188 @@
+.white-paper {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 3456px;
+  overflow: hidden;
+  padding: 36px 0;
+  width: 1753px;
+}
+
+.flex-row-8 {
+  align-items: flex-start;
+  display: flex;
+  height: 111px;
+  margin-left: 40px;
+  min-width: 1574px;
+}
+
+.icon-bluetooth-1 {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 110px;
+  object-fit: cover;
+  width: 108px;
+}
+
+.overlap-group1-2 {
+  height: 110px;
+  margin-left: 696px;
+  position: relative;
+  width: 561px;
+}
+
+.team-1 {
+  height: 110px;
+  left: 312px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 249px;
+}
+
+.gallery-1 {
+  cursor: pointer;
+  height: 37px;
+  left: 172px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 37px;
+  width: 249px;
+}
+
+.surname-1 {
+  height: 110px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.social-4 {
+  align-self: center;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  margin-bottom: 1.02px;
+  width: 209px;
+}
+
+.discord-logo-white-1-3 {
+  cursor: pointer;
+  height: 36.67px;
+  margin-right: 42px;
+  margin-top: 1.8px;
+  object-fit: cover;
+  width: 40px;
+}
+
+.icon-twitter-3 {
+  cursor: pointer;
+  height: 32.92px;
+  margin-right: -209px;
+  margin-top: 4.0px;
+  width: 40px;
+}
+
+.icon-instagram-3 {
+  cursor: pointer;
+  height: 39.98px;
+  margin-right: 169px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 40px;
+}
+
+.overlap-group2-1 {
+  align-self: flex-end;
+  height: 3236px;
+  margin-right: -5px;
+  margin-top: 13px;
+  position: relative;
+  width: 1743px;
+}
+
+.overlap-group-2 {
+  height: 3236px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1743px;
+}
+
+.project-outline-abst {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  height: 3061px;
+  left: 189px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 1347px;
+}
+
+.line-8-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2986px;
+  width: 1743px;
+}
+
+.social-5 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  justify-content: flex-end;
+  left: 1512px;
+  position: absolute;
+  top: 3052px;
+  width: 130px;
+}
+
+.discord-logo-white-1-4 {
+  cursor: pointer;
+  height: 22px;
+  margin-right: 32px;
+  object-fit: cover;
+  width: 24px;
+}
+
+.icon-twitter-4 {
+  cursor: pointer;
+  height: 18.11px;
+  margin-bottom: 3.7px;
+  margin-right: -130px;
+  width: 22px;
+}
+
+.icon-instagram-4 {
+  cursor: pointer;
+  height: 21.99px;
+  margin-bottom: 0;
+  margin-right: 108px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.discord-logo-wordmark-white-1-2 {
+  cursor: pointer;
+  height: 55px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 3099px;
+  width: 200px;
+}
+
+.heading{
+  font-size: 30px;
+  font-weight: 700;
+}

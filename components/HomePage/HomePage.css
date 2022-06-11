@@ -1,0 +1,582 @@
+.home-page {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 7500px;
+  overflow: hidden;
+  padding: 36px 0;
+  width: 1728px;
+}
+
+.flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 2246px;
+  width: 1674px;
+}
+
+.flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 111px;
+  margin-right: 18.0px;
+  min-width: 1550px;
+}
+
+.icon-bluetooth {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 110px;
+  object-fit: cover;
+  width: 108px;
+}
+
+.overlap-group3 {
+  height: 110px;
+  margin-left: 696px;
+  position: relative;
+  width: 746px;
+}
+
+.surname {
+  cursor: pointer;
+  height: 110px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+
+.gallery {
+  cursor: pointer;
+  height: 37px;
+  left: 172px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 37px;
+  width: 249px;
+}
+
+.team {
+  cursor: pointer;
+  height: 110px;
+  left: 312px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 249px;
+}
+
+.social {
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  left: 537px;
+  position: absolute;
+  top: 35px;
+  width: 209px;
+}
+
+.discord-logo-white-1 {
+  cursor: pointer;
+  height: 36.67px;
+  margin-right: 42px;
+  margin-top: 1.8px;
+  object-fit: cover;
+  width: 40px;
+}
+
+.icon-twitter {
+  cursor: pointer;
+  height: 32.92px;
+  margin-right: -209px;
+  margin-top: 4.0px;
+  width: 40px;
+}
+
+.icon-instagram {
+  cursor: pointer;
+  height: 39.98px;
+  margin-right: 169px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 40px;
+}
+
+.overlap-group2 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 1023px;
+  justify-content: flex-end;
+  margin-top: 24px;
+  min-width: 1674px;
+  padding: 43px 57px;
+}
+
+.frame-4 {
+  background-color: var(--old-gold);
+  border-radius: 20px;
+  display: flex;
+  height: 103px;
+  justify-content: flex-end;
+  width: 376px;
+}
+
+.connect-wallet {
+  height: 49px;
+  letter-spacing: 0;
+  margin-right: 23px;
+  margin-top: 27px;
+  text-align: center;
+  width: 330px;
+}
+
+.flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 640px;
+  margin-right: 3.0px;
+  margin-top: 96px;
+  min-width: 1565px;
+}
+
+.overlap-group4 {
+  height: 613px;
+  position: relative;
+  width: 841px;
+}
+
+.welcome-to-the-golden-key-society {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxxxl);
+  font-weight: 800;
+  height: 176px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 841px;
+}
+
+.a-limited-nft-collec {
+  height: 457px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 156px;
+  width: 841px;
+}
+
+.x177132-d6-dc09-449-d {
+  align-self: flex-end;
+  height: 639px;
+  margin-left: 80px;
+  object-fit: cover;
+  width: 644px;
+}
+
+.overlap-group1 {
+  align-items: center;
+  background-color: var(--old-gold);
+  display: flex;
+  height: 209px;
+  margin-left: 5.0px;
+  margin-top: 86px;
+  min-width: 1557px;
+  padding: 0 50px;
+}
+
+.join-the-society {
+  height: 127px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 476px;
+}
+
+.overlap-group7 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 101px;
+  justify-content: flex-end;
+  margin-left: 457px;
+  min-width: 504px;
+  padding: 15px 23px;
+}
+
+.mint {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  height: 69px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 436px;
+}
+
+.line-2 {
+  height: 3px;
+  margin-right: 1.0px;
+  margin-top: 54px;
+  object-fit: cover;
+  width: 1557px;
+}
+
+.flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 613px;
+  margin-left: 17.0px;
+  margin-top: 42px;
+  min-width: 1545px;
+}
+
+.flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 542px;
+  width: 821px;
+}
+
+.the-specs {
+  height: 75px;
+  letter-spacing: 0;
+  width: 276px;
+}
+
+.each-golden-key-nft {
+  height: 434px;
+  letter-spacing: 0;
+  margin-top: 33px;
+  width: 821px;
+}
+
+.eth-gif-1 {
+  align-self: flex-end;
+  height: 574px;
+  margin-left: 80px;
+  object-fit: cover;
+  width: 644px;
+}
+
+.line-3 {
+  height: 3px;
+  margin-right: 1.0px;
+  margin-top: 96px;
+  object-fit: cover;
+  width: 1557px;
+}
+
+.home-page-item {
+  align-self: flex-start;
+  height: 61px;
+  letter-spacing: 0;
+  margin-left: 106px;
+  margin-top: 38px;
+  width: 637px;
+}
+
+.the-golden-key-socie {
+  align-self: flex-start;
+  height: 202px;
+  letter-spacing: 0;
+  margin-left: 117px;
+  margin-top: 77px;
+  width: 1206px;
+}
+
+.line-4 {
+  height: 3px;
+  margin-right: 1.0px;
+  margin-top: 14px;
+  object-fit: cover;
+  width: 1557px;
+}
+
+.flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 662px;
+  margin-left: 14.0px;
+  margin-top: 1px;
+  min-width: 1516px;
+}
+
+.with-over-24-speaker {
+  align-self: flex-end;
+  height: 527px;
+  letter-spacing: 0;
+  width: 852px;
+}
+
+.ezgif-1 {
+  height: 611px;
+  margin-left: 52px;
+  object-fit: cover;
+  width: 612px;
+}
+
+.overlap-group5 {
+  height: 1514px;
+  margin-left: 2.0px;
+  margin-top: 76px;
+  position: relative;
+  width: 1560px;
+}
+
+.line-5 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 1557px;
+}
+
+.line-6 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1496px;
+  width: 1557px;
+}
+
+.imb_q-me-oin-1 {
+  height: 1121px;
+  left: 913px;
+  object-fit: cover;
+  position: absolute;
+  top: 288px;
+  width: 647px;
+}
+
+.roadmap {
+  height: 61px;
+  left: 29px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 66px;
+  width: 637px;
+}
+
+.q3-july-september-go {
+  color: transparent;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  height: 1514px;
+  left: 28px;
+  letter-spacing: 0;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0;
+  width: 1042px;
+}
+
+.community-tools {
+  align-self: flex-start;
+  height: 61px;
+  letter-spacing: 0;
+  margin-left: 113px;
+  margin-top: 23px;
+  width: 637px;
+}
+
+.flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 213px;
+  margin-right: 7.0px;
+  margin-top: 94px;
+  min-width: 1495px;
+}
+
+.join-us-in-discord {
+  align-self: flex-end;
+  height: 207px;
+  letter-spacing: 0;
+  width: 878px;
+}
+
+.group-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 179px;
+  min-width: 438px;
+}
+
+.overlap-group {
+  height: 101px;
+  position: relative;
+  width: 436px;
+}
+
+.rectangle-8 {
+  background-color: var(--old-gold);
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 411px;
+}
+
+.join-here {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  height: 69px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 436px;
+}
+
+.line-7 {
+  height: 3px;
+  margin-right: 1.0px;
+  margin-top: 52px;
+  object-fit: cover;
+  width: 1557px;
+}
+
+.flex-row-5 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 28.0px;
+  margin-top: 38px;
+  min-width: 1530px;
+}
+
+.overlap-group6 {
+  height: 744px;
+  position: relative;
+  width: 802px;
+}
+
+.the-team {
+  height: 61px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 637px;
+}
+
+.gks-was-created-by-f {
+  height: 744px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 802px;
+}
+
+.x908-e8302-3849-4-e71 {
+  height: 716px;
+  margin-left: 61px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 667px;
+}
+
+.verified-smart-contr {
+  color: transparent;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  height: 39px;
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  margin-top: 83px;
+  min-width: 931px;
+}
+
+.span0 {
+  color: var(--white);
+}
+
+.span1 {
+  color: var(--old-gold);
+}
+
+.line-8 {
+  align-self: flex-end;
+  height: 1px;
+  margin-right: -17.5px;
+  margin-top: 56px;
+  object-fit: cover;
+  width: 1718px;
+}
+
+.flex-row-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 220px;
+  margin-left: 23.0px;
+  margin-top: 30px;
+  min-width: 1553px;
+  position: relative;
+}
+
+.discord-logo-wordmark-white-1 {
+  align-self: center;
+  cursor: pointer;
+  height: 55px;
+  margin-top: 0.59px;
+  object-fit: cover;
+  width: 200px;
+}
+
+.social-1 {
+  align-items: flex-end;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 548px;
+  margin-top: 36px;
+  width: 130px;
+}
+
+.discord-logo-white-1-1 {
+  cursor: pointer;
+  height: 22px;
+  margin-right: 32px;
+  object-fit: cover;
+  width: 24px;
+}
+
+.icon-twitter-1 {
+  cursor: pointer;
+  height: 18.11px;
+  margin-bottom: 3.7px;
+  margin-right: -130px;
+  width: 22px;
+}
+
+.icon-instagram-1 {
+  cursor: pointer;
+  height: 21.99px;
+  margin-bottom: 0;
+  margin-right: 108px;
+  object-fit: cover;
+  width: 22px;
+}
+
